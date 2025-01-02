@@ -17,7 +17,7 @@
 
 ## 📫 How to reach me:
 - Send me a message on:
-    - [Telegram](@Almir_Saitov)
+    - [Telegram](https://t.me/m/GmhgB8-aN2U6)
     - [LinkedIn](linkedin.com/in/saitov-almir-7b5882338)
 - Reach out on GitHub or through your preferred messenger
 
