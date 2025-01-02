@@ -19,6 +19,8 @@
 - Send me a message on:
     - [Telegram](https://t.me/m/GmhgB8-aN2U6)
     - [LinkedIn](linkedin.com/in/saitov-almir-7b5882338)
+    - [Skype](https://join.skype.com/invite/H7xKiPzM5Lzi)
+    - [Github](https://github.com/AlmirSai/AlmirSai/)
 - Reach out on GitHub or through your preferred messenger
 
 ## 😄 Pronouns: 
@@ -37,7 +39,7 @@
 ### 🔗 Some of my projects:
 - [Telefram-AI-Bot](https://github.com/AlmirSai/Telegram-AI-bot)
 - [Blog-Application](https://github.com/AlmirSai/Blog-application)
-- etc // small projects
+- [FullStream](https://github.com/AlmirSai/FullStream)
 
 Feel free to check out my repositories for more!
 
