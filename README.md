@@ -21,6 +21,7 @@
     - [LinkedIn](https://www.linkedin.com/in/saitov-almir-7b5882338)
     - [Skype](https://join.skype.com/invite/H7xKiPzM5Lzi)
     - [Github](https://github.com/AlmirSai/AlmirSai/)
+    - [Roadmap](https://roadmap.sh/u/saitovalmir)
 - Reach out on GitHub or through your preferred messenger
 
 ## 😄 Pronouns: 
