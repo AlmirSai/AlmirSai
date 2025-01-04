@@ -1,6 +1,3 @@
-Here’s the updated version based on your preferences:  
-
----
 
 # 👋 Hi, I’m Almir ([@AlmirSai](https://github.com/AlmirSai))
 
@@ -49,6 +46,3 @@ Here’s the updated version based on your preferences:
 
 Let’s work together to build impactful solutions! 🚀  
 
----
-
-Does this align with your vision for an HR-focused profile?
