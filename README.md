@@ -1,46 +1,54 @@
-# 👋 Hi, I’m Almir ([@AlmirSai](https://github.com/AlmirSai))
-
-## 👀 I'm interested in:
-- Backend development with Golang
-- Machine Learning (ML) and Backend-related CI/CD
-- Collaborating with like-minded people to solve problems and improve lives
-
-## 🌱 I’m currently learning:
-- Backend development with a focus on Golang
-- API development and optimization
-- Best practices in CI/CD
-
-## 💞️ I’m looking to collaborate on:
-- Projects that solve real-world problems
-- Backend projects (especially with Golang) and Machine Learning
-- Anything that involves improving systems and processes
-
-## 📫 How to reach me:
-- Send me a message on:
-    - [Telegram](https://t.me/m/GmhgB8-aN2U6)
-    - [LinkedIn](https://www.linkedin.com/in/saitov-almir-7b5882338)
-    - [Skype](https://join.skype.com/invite/H7xKiPzM5Lzi)
-    - [Github](https://github.com/AlmirSai/AlmirSai/)
-    - [Roadmap](https://roadmap.sh/u/saitovalmir)
-- Reach out on GitHub or through your preferred messenger
-
-## 😄 Pronouns: 
-- Just call me **Almir**!
-
-## ⚡ Fun Fact:
-- If you find a fun fact about me, I might get rich! 💰
+Here’s the updated version based on your preferences:  
 
 ---
 
-### 📈 Currently working on:
-- Building backend systems with Golang, focusing on integrations with API
-- Exploring ML-related backend solutions
-- Improving CI/CD pipelines and automating deployment processes with bash and python
+# 👋 Hi, I’m Almir ([@AlmirSai](https://github.com/AlmirSai))
 
-### 🔗 Some of my projects:
-- [Telefram-AI-Bot](https://github.com/AlmirSai/Telegram-AI-bot)
-- [Blog-Application](https://github.com/AlmirSai/Blog-application)
-- [FullStream](https://github.com/AlmirSai/FullStream)
+## 👨‍💻 About Me:
+- **Backend Developer** specializing in **Golang** and **Python** with expertise in building high-performance systems.  
+- Focused on creating **efficient CI/CD pipelines** and delivering scalable backend solutions.  
+- Enjoy creating **full-stack applications** with **TypeScript** as a hobby, exploring frontend development.  
 
-Feel free to check out my repositories for more!
+## 🌱 Currently Learning:
+- Advanced backend development with **Golang**.  
+- **API development and optimization** for robust integrations.  
+- Best practices in **CI/CD pipelines** and deployment automation.
 
+## 👀 Looking to Collaborate On:
+- **Backend projects** using **Golang** and **Python**.  
+- Streamlining **CI/CD processes** for development teams.  
+- Full-stack applications where backend logic drives user experience.  
+
+---
+
+## 📈 My Focus Areas:
+- **Backend Development**: Building reliable, scalable systems with **Golang**.  
+- **DevOps and CI/CD**: Automating deployments and improving workflows.  
+- **Full-Stack Applications**: Exploring **TypeScript** and frontend design as a creative outlet.  
+
+---
+
+## 💼 How to Reach Me:
+- **GitHub**: [@AlmirSai](https://github.com/AlmirSai)  
+- **Telegram**: [@saitovalmir](https://t.me/saitovalmir)  
+- **LinkedIn**: [Saitov Almir](https://www.linkedin.com/in/saitov-almir-7b5882338)  
+
+---
+
+## 🔗 Featured Projects:
+- **[Telegram-AI-Bot](https://github.com/AlmirSai/Telegram-AI-bot)**: A chatbot integrating advanced backend capabilities.  
+- **[Blog-Application](https://github.com/AlmirSai/Blog-application)**: A blog platform showcasing a clean and scalable backend architecture.  
+- **[FullStream](https://github.com/AlmirSai/FullStream)**: A streaming application with a focus on backend efficiency.  
+
+---
+
+## Why Me?  
+- **Backend Expertise**: Focused on delivering performance, scalability, and reliability.  
+- **Collaborative Spirit**: Thrive in team environments, sharing knowledge, and solving challenges.  
+- **Proactive Learner**: Continuously exploring new tools and techniques to improve development workflows.  
+
+Let’s work together to build impactful solutions! 🚀  
+
+---
+
+Does this align with your vision for an HR-focused profile?
