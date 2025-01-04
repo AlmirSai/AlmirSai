@@ -28,7 +28,7 @@
 ## 💼 How to Reach Me:
 - **GitHub**: [@AlmirSai](https://github.com/AlmirSai)  
 - **Telegram**: [@saitovalmir](https://t.me/saitovalmir)  
-- **LinkedIn**: [Saitov Almir](https://www.linkedin.com/in/saitov-almir-7b5882338)  
+- **LinkedIn**: [Saitov Almir](www.linkedin.com/in/almir-saitov-7b5882338)  
 
 ---
 
